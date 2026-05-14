@@ -54,7 +54,7 @@ Lightweight while still producing structured outputs
 
 The assignment emphasized local execution and practical product development over large model size.
 
-Setup Instructions
+Setup Instructions:
 1. Clone Repository
 git clone <your-github-repo-link>
 cd trinethra-analyzer
